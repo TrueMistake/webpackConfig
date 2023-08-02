@@ -9,9 +9,6 @@
 Запускает приложение в режиме разработки.\
 Откройте [http://localhost:3000](http://localhost:3000) чтобы просмотреть его в браузере.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 ### `yarn build:dev`
 
 Создает приложение для производства в dist папку.
